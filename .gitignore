@@ -1,0 +1,49 @@
+# --- Archivos de compilación y binarios ---
+/build/
+/dist/
+/target/
+/out/
+*.class
+*.jar
+*.war
+*.ear
+
+# --- Maven ---
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.nextSnapshot
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# --- Archivos de configuración de IDEs ---
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/nbdist/
+nbactions.xml
+nb-configuration.xml
+.nb-gradle/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.settings/
+.project
+.classpath
+
+# --- Archivos de Sistema y Logs ---
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# --- Configuración de Base de Datos (Seguridad) ---
+.env
