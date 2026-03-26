@@ -13,6 +13,20 @@ Es la **Versión 1.0** del sistema, totalmente funcional, con planes de agregar 
 * **Gestor de Dependencias:** Maven
 * **IDE Recomendado:** Apache NetBeans
 
+## 📸 Capturas de Pantalla
+
+**1. Menú Principal (Pantalla de inicio y navegación):**
+<img width="1091" height="696" alt="PeluqueriaMenu" src="https://github.com/user-attachments/assets/c1e614be-ad39-494b-9329-a1b4d8593c02" />
+
+**2. Carga de Datos (Registro de nueva mascota y dueño):**
+<img width="1090" height="694" alt="CargaDatos" src="https://github.com/user-attachments/assets/0637054f-ec7a-4298-a205-01d2c58d0240" />
+
+**3. Panel de Consulta (Vista de tabla, clientes y operaciones CRUD):**
+<img width="1091" height="698" alt="verDatos" src="https://github.com/user-attachments/assets/ba2f320c-efe3-4f6f-83fa-078c4d1f5d35" />
+
+**4. Edición de Datos (Actualización de mascota/cliente):**
+<img width="1093" height="696" alt="modificarDatos" src="https://github.com/user-attachments/assets/dc88de37-a799-4351-a00c-d140dd850a61" />
+
 ## 📂 Arquitectura del Proyecto
 
 El proyecto está estructurado utilizando el **Patrón de Arquitectura por Capas IGU** para separar responsabilidades y hacer el código más mantenible. La estructura exacta de paquetes es la siguiente:
